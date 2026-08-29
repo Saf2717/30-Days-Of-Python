@@ -24,4 +24,13 @@ product = num_one * num_two
 division = num_one / num_two
 modulus = num_one % num_two
 variable_exp = num_one ** num_two
-
+floor_division = num_one // num_two
+area_of_circle = 3.14 * (30 ** 2)
+circum_of_circle = 3.14 * (2 * 30)
+radius = int(input("Enter the radius of a circle: "))
+area_of_circle = 3.14 * (radius ** 2)
+first_name = input("Enter your first name: ")
+last_name = input("Enter your last name: ")
+country = input("Enter your country: ")
+age = int(input("Enter your age: "))
+ 

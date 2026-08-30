@@ -1,5 +1,4 @@
-if int(9.8) == 10:
-    print("The number is equal to 10.")
+
 
 complex = 3 + 4j
 print ("The complex number is:", complex)
